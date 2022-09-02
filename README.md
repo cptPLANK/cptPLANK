@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: julien-lieske](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-lieske/)](https://www.linkedin.com/in/julien-lieske/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/cptplank?label=follow&style=social)](https://github.com/cptplank)
+[![GitHub cptPLANK](https://img.shields.io/github/followers/cptplank?label=follow&style=social)](https://github.com/cptplank)
 
 
 ### <img src="https://i.giphy.com/media/AchfIoUtHr5E4/giphy.webp" width="50"> Über mich...  
@@ -19,6 +19,6 @@ const julien = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ich quassel sehr viel,</b> wenn dich das nicht abschreckt: <b>Hey! Ich freue mich dich kennenzulernen</b> ;)</em>
+<img src="https://i.giphy.com/media/73NGKSsZnfg8ikzDix/giphy.webp" width="60"> <em><b>Ich quassel sehr viel,</b> wenn dich das nicht abschreckt: <b>Hey! Ich freue mich dich kennenzulernen</b> ;)</em>
 
 ---
