@@ -3,7 +3,7 @@
 <p><em>Frontend Webentwickler bei <a href="http://www.aeosys.de">aeosys</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: julien-lieske](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-lieske/)](https://www.linkedin.com/in/julien-lieske/)
+[![Linkedin: julien-lieske](https://img.shields.io/badge/-julien-lieske-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-lieske/)](https://www.linkedin.com/in/julien-lieske/)
 [![GitHub cptPLANK](https://img.shields.io/github/followers/cptplank?label=follow&style=social)](https://github.com/cptplank)
 
 
