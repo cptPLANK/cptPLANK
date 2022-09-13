@@ -19,6 +19,6 @@ const julien = {
 }
 ```
 
-<em><b>Ich quassel sehr viel,</b> wenn dich das nicht abschreckt: <b>Hey! Ich freue mich dich kennenzulernen</b> ;)</em>
+<em><b>Ich quassel sehr viel,</b> wenn dich das nicht abschreckt: <b>Hey! Ich freue mich dich kennenzulernen</b> 👾</em>
 
 ---
