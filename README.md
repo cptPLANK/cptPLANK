@@ -15,7 +15,7 @@ const julien = {
   tools: [React, Next, Redux, Node, Storybook, Styled-Components, Jest, Eleventy],
   architecture: ["microservices", "event-driven", "design system pattern"],
   stacks: ["JAMstack", "MERN"],
-  challenge: "Ich versuche die #100DaysOfCode Herausforderung durchzuhalten und konzentriere mich auf React und JavaScript"
+  challenge: "Angular lernen - bämbämbäm"
 }
 ```
 
