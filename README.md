@@ -1,6 +1,6 @@
 <h2> Hey, ich bin Julien! <img src="https://i.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.webp" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/AchfIoUtHr5E4/giphy.webp" width="230">
-<p><em>Frontend Webentwickler bei <a href="http://www.aeosys.de">aeosys</a>
+<p><em>Full-Stack Webentwickler bei <a href="http://www.oroe.de">oroe GmbH</a>
 </em></p>
 
 [![Linkedin: julien-lieske](https://img.shields.io/badge/-Julien%20Lieske-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julien-lieske/)](https://www.linkedin.com/in/julien-lieske/)
